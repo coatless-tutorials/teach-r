@@ -65,6 +65,34 @@ lower.
 
 - [What every computer scientist should know about floating-point arithmetic](http://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf) by Goldberg (1991)
 
+### Textbooks, Manuals, and Tutorials
+
+#### Base R
+
+- [List of Freely Accessible _R_ Documentation](https://cran.r-project.org/other-docs.html)
+- [List of Purchasable _R_ Textbooks](https://www.r-project.org/doc/bib/R-books.html)
+- [The Art of R Programming](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843) by Norman Matloff
+- [R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](https://www.amazon.com/Cookbook-Analysis-Statistics-Graphics-Cookbooks/dp/0596809158) by Paul Teetor
+- [The R Graphics Cookbook](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956) by Winston Chang
+- [Data Manipulation with R](http://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
+- [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
+
+**Advanced**
+
+- [Software for Data Analysis: Programming with R](http://www.amazon.com/Software-Data-Analysis-Programming-Statistics/dp/0387759352) by John Chambers
+- [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
+
+#### Tidyverse Specific
+
+- [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
+- [Advanced R](https://adv-r.hadley.nz/) (starting in the second edition) by Hadley Wickham
+- [Grammar of Graphics](http://had.co.nz/ggplot2/), [Book Source](https://github.com/hadley/ggplot2-book)  by Hadley Wickham
+
+#### Domain Specific
+
+- [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
+- [Forecasting: Principles and Practice](https://otexts.org/fpp2/)
+
 ### Version Control
 
 #### `git`
