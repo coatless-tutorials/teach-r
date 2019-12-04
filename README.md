@@ -84,12 +84,13 @@ lower.
 - [Software for Data Analysis: Programming with R](http://www.amazon.com/Software-Data-Analysis-Programming-Statistics/dp/0387759352) by John Chambers
 - [The R Inferno](http://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
-#### Tidyverse Specific
+#### Tidyverse or Tidymodels Specific
 
 - [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 - [Advanced R](https://adv-r.hadley.nz/) (starting in the second edition) by Hadley Wickham
 - [Grammar of Graphics](https://ggplot2-book.org/), [Book Source](https://github.com/hadley/ggplot2-book)  by Hadley Wickham
-- [](https://socviz.co/) by 
+- [Data Visualization: A practical introduction](https://socviz.co/) by Kieran Healy
+- [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/) by Max Kuhn and Kjell Johnson
 
 #### Domain Specific
 
@@ -99,8 +100,6 @@ lower.
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/) by Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer
 - [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) by Claus O. Wilke
-- [Data Visualization: A practical introduction](https://socviz.co/) by Kieran Healy
-
 
 ### Version Control
 
