@@ -89,6 +89,7 @@ lower.
 - [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 - [Advanced R](https://adv-r.hadley.nz/) (starting in the second edition) by Hadley Wickham
 - [Grammar of Graphics](https://ggplot2-book.org/), [Book Source](https://github.com/hadley/ggplot2-book)  by Hadley Wickham
+- [](https://socviz.co/) by 
 
 #### Domain Specific
 
@@ -97,6 +98,9 @@ lower.
 - [Mastering Apache Spark with R](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, and Edgar Ruiz
 - [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 - [Introduction to Econometrics with R](https://www.econometrics-with-r.org/) by Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer
+- [Fundamentals of Data Visualization](https://serialmentor.com/dataviz/) by Claus O. Wilke
+- [Data Visualization: A practical introduction](https://socviz.co/) by Kieran Healy
+
 
 ### Version Control
 
