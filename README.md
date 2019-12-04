@@ -72,10 +72,12 @@ lower.
 - [List of Freely Accessible _R_ Documentation](https://cran.r-project.org/other-docs.html)
 - [List of Purchasable _R_ Textbooks](https://www.r-project.org/doc/bib/R-books.html)
 - [The Art of R Programming](https://www.amazon.com/Art-Programming-Statistical-Software-Design/dp/1593273843) by Norman Matloff
+- [Hands-on Programming with R](https://rstudio-education.github.io/hopr) by Garrett Grolemund
 - [R Cookbook: Proven Recipes for Data Analysis, Statistics, and Graphics](https://www.amazon.com/Cookbook-Analysis-Statistics-Graphics-Cookbooks/dp/0596809158) by Paul Teetor
 - [The R Graphics Cookbook](http://www.amazon.com/R-Graphics-Cookbook-Winston-Chang/dp/1449316956) by Winston Chang
 - [Data Manipulation with R](http://www.amazon.com/Data-Manipulation-R-Use/dp/0387747303) by Phil Spector
 - [R Packages](http://r-pkgs.had.co.nz/) by Hadley Wickham
+- [Practical Data Science with R, Second Edition](https://www.manning.com/books/practical-data-science-with-r-second-edition) by Nina Zumel and John Mount (**Pay**)
 
 **Advanced**
 
@@ -86,12 +88,15 @@ lower.
 
 - [R for Data Science](http://r4ds.had.co.nz/) by Garrett Grolemund and Hadley Wickham
 - [Advanced R](https://adv-r.hadley.nz/) (starting in the second edition) by Hadley Wickham
-- [Grammar of Graphics](http://had.co.nz/ggplot2/), [Book Source](https://github.com/hadley/ggplot2-book)  by Hadley Wickham
+- [Grammar of Graphics](https://ggplot2-book.org/), [Book Source](https://github.com/hadley/ggplot2-book)  by Hadley Wickham
 
 #### Domain Specific
 
-- [Geocomputation with R](https://github.com/Robinlovelace/geocompr)
-- [Forecasting: Principles and Practice](https://otexts.org/fpp2/)
+- [Geocomputation with R](https://geocompr.robinlovelace.net/) by Robin Lovelace, Jakub Nowosad, and Jannes Muenchow
+- [Forecasting: Principles and Practice](https://otexts.org/fpp2/) by Rob J Hyndman and George Athanasopoulos
+- [Mastering Apache Spark with R](https://therinspark.com/) by Javier Luraschi, Kevin Kuo, and Edgar Ruiz
+- [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/) by Christoph Hanck, Martin Arnold, Alexander Gerber and Martin Schmelzer
 
 ### Version Control
 
