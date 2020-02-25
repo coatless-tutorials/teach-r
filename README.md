@@ -10,6 +10,7 @@ Provides a list of resources for teaching different ideas in _R_.
   Garrett Grolemund of RStudio.
 - [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
 - [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
+- Video: [a reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw), horror movie-themed trailer on non-reproducible workflows.
 
 #### LaTeX
 
