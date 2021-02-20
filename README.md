@@ -2,6 +2,10 @@
 
 Provides a list of resources for teaching different ideas in _R_.
 
+### Modeling
+
+- [CRAN Task Views for finding packages related to a certain topic](https://cran.r-project.org/web/views/)
+
 ### Communication
 
 #### R Markdown
@@ -15,13 +19,15 @@ Provides a list of resources for teaching different ideas in _R_.
 #### LaTeX
 
 - [LaTeX Mathematical Symbol Guide](https://artofproblemsolving.com/wiki/index.php/LaTeX:Symbols)
+- [LaTeX Symbol Lookup](http://detexify.kirelabs.org/classify.html)
+- [Supported LaTeX Symbols in MathJax (v3)](http://docs.mathjax.org/en/latest/input/tex/macros/index.html) 
 
 ### Data Repositories
 
 Useful sources when students say they can't find a data set anywhere... 
 
 - [Google's Data Search](https://toolbox.google.com/datasetsearch)
-    - [Technical Information about How It Works](https://developers.google.com/search/docs/data-types/dataset)
+    - [Technical Information about How Data Search Works](https://developers.google.com/search/docs/data-types/dataset)
 - [US Federal Government Data Search Portal](https://www.data.gov/)
 - [US City Open Data Census](http://us-city.census.okfn.org/)
 - [360Giving](http://data.threesixtygiving.org/)
@@ -49,6 +55,7 @@ lower.
 - [From Data to Viz](https://www.data-to-viz.com/)
     - Decision tree graph selection
 - [Financial Times - Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/tree/master/visual-vocabulary)
+- [Exploring Histograms, an essay on histogram features](http://tinlizzie.org/histograms/)
 
 #### Implementation
 
