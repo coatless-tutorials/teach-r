@@ -8,6 +8,10 @@ Provides a list of resources for teaching different ideas in _R_.
 
 ### Communication
 
+#### Concept Visualization
+
+- [Statistics/#rstats illustrations by Allison Horst (twitter: @allison_horst).](https://github.com/allisonhorst/stats-illustrations)
+
 #### R Markdown
 
 - [R Markdown Overview](https://rmarkdown.rstudio.com/lesson-1.html) by
