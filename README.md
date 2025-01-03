@@ -11,14 +11,27 @@ Provides a list of resources for teaching different ideas in _R_.
 #### Concept Visualization
 
 - [Statistics/#rstats illustrations by Allison Horst (twitter: @allison_horst).](https://github.com/allisonhorst/stats-illustrations)
+- Visualize dplyr commands
+  - [`tidyexplain` by Garrick](https://www.garrickadenbuie.com/project/tidyexplain/) / [Hand crafted visualizations by Andrew Wheiss](https://www.andrewheiss.com/blog/2024/04/04/group_by-summarize-ungroup-animations/)
+  - [`unravel` package for stepping through a data pipeline by Nischal Shrestha](https://github.com/nischalshrestha/Unravel)
+  - [Tidy Data Tutor by Sean Kross and Philip Guo](https://tidydatatutor.com/)
 
-#### R Markdown
+#### Literate Programming
+
+- Video: [a reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw), horror movie-themed trailer on non-reproducible workflows.
+
+##### Quarto 
+
+- [Quarto Overview](https://quarto.org/docs/get-started/hello/rstudio.html)
+- [Quarto Cheatsheet](https://raw.githubusercontent.com/rstudio/cheatsheets/main/quarto.pdf)
+- [Quarto Reference Guide](https://quarto.org/docs/guide/)
+
+##### R Markdown
 
 - [R Markdown Overview](https://rmarkdown.rstudio.com/lesson-1.html) by
   Garrett Grolemund of RStudio.
-- [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/master/rmarkdown-2.0.pdf)
+- [R Markdown Cheat Sheet](https://github.com/rstudio/cheatsheets/raw/main/rmarkdown-2.0.pdf)
 - [R Markdown Reference Guide](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
-- Video: [a reproducible workflow](https://www.youtube.com/watch?v=s3JldKoA0zw), horror movie-themed trailer on non-reproducible workflows.
 
 #### LaTeX
 
